@@ -1,0 +1,8 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 12.0
+[submodule "maremesa"]
+	path = maremesa
+	url = git@git.vauxoo.com:vauxoo/maremesa.git
+	branch = 12.0
