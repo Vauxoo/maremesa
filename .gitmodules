@@ -1,12 +1,16 @@
-[submodule "server-tools"]
-	path = server-tools
-	url = git@github.com:Vauxoo/server-tools.git
-	branch = 12.0
 [submodule "maremesa"]
 	path = maremesa
 	url = git@git.vauxoo.com:vauxoo/maremesa.git
-	branch = 12.0
-[submodule "vendor-bills"]
-	path = vendor-bills
-	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
-	branch = 12.0
+	branch = 15.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 15.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 15.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
